@@ -1,5 +1,4 @@
-# Airline-Reservation-System
-Airline Reservation System ✈️
+# Airline-Reservation-System ✈️
 
 Project Abstract:
 
